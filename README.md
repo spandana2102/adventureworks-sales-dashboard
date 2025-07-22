@@ -1,11 +1,10 @@
-<img width="1432" height="915" alt="image" src="https://github.com/user-attachments/assets/69c2b132-a483-4770-9fcb-4534a3ec4c6d" /># adventureworks-sales-dashboard
 # Adventure Works Sales Dashboard (Tableau)
 
 An interactive Tableau dashboard built to explore the sales performance of Adventure Works across multiple business dimensions—designed with clarity, usability, and insights in mind.
 
 ## Overview
 
-This dashboard allows users to analyze and compare key sales metrics including Turnover, Volume, Orders, and Profit. The goal was to break down sales trends by region, occupation, and product subcategory to support better data-driven decisions.
+This dashboard allows users to analyze and compare key sales metrics, including Turnover, Volume, Orders, and Profit. The goal was to break down sales trends by region, occupation, and product subcategory to support better data-driven decisions.
 
 ## Dashboard Highlights
 
@@ -21,15 +20,15 @@ This dashboard allows users to analyze and compare key sales metrics including T
 
 Turnover:
 - North America drives the highest turnover
-- Professionals and Road Bikes are top contributors
+- Professionals and Road Bikes are the top contributors
 
 Volume:
 - Tires and Tubes lead in sales volume
 - High distribution in both Europe and North America
 
 Orders:
-- Most orders placed by Professional and Skilled Manual segments
-- Road Bikes and Helmets frequently ordered
+- Most orders placed by the Professional and Skilled Manual segments
+- Road Bikes and Helmets are frequently ordered
 
 Profit:
 - Highest profit from Road Bikes and Mountain Bikes
